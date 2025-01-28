@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maduki-tech&label=Profile%20views&color=0e75b6&style=flat" alt="maduki-tech" /> </p>
 
-- 🔭 I’m currently working on **An Influencer App with AWS**
+- 🔭 I’m currently working on **A Project Planning tool**
 
-- 🌱 I’m currently learning **AWS, Azure, Java, Go, Rust**
+- 🌱 I’m currently learning **Azure, Java, Go, NextJS**
 
 - 👯 I’m looking to collaborate on **Every Kind of Project**
 
-- 👨‍💻 All of my projects are available at [https://www.davidschlueter.com/de](https://www.davidschlueter.com/de)
-
-- 💬 Ask me about **React, NextJS, TailwindCSS**
+- 💬 Ask me about **React, NextJS, TailwindCSS, General Backend Development**
 
 - 📫 How to reach me **d.schlueter1011@gmail.com**
 
